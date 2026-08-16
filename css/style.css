@@ -120,6 +120,27 @@ footer {
         margin-right: 0;
     }
 
+    #process {
+    text-align: center;
+}
+
+#process article {
+    display: inline-block;
+    vertical-align: top;
+    width: 21%;
+    margin: 1%;
+    padding: 25px;
+    background: #ffffff;
+    border-radius: 12px;
+    text-align: left;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+#process article h3 {
+    color: #0b1f3a;
+    margin-bottom: 10px;
+}
+
     #home h1 {
         font-size: 36px;
     }
