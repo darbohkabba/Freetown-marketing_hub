@@ -159,4 +159,14 @@ footer {
         width: 100%;
         margin: 10px 0;
     }
-  }
+     .logo {
+    font-size: 28px;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+
+.brand-name {
+    color: #ffffff;
+    font-weight: bold;
+    margin-right: auto;
+}
