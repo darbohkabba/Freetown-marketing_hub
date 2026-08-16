@@ -110,7 +110,7 @@ footer {
     padding: 25px;
 }
 
-@media (max-width: 700px) {
+ @media (max-width: 700px) {
 
     nav {
         flex-direction: column;
@@ -120,9 +120,19 @@ footer {
         margin-right: 0;
     }
 
-    #process {
-    text-align: center;
-}
+    #home h1 {
+        font-size: 36px;
+    }
+
+    #services article {
+        width: 100%;
+        margin: 10px 0;
+    }
+
+    #process article {
+        width: 100%;
+        margin: 10px 0;
+    }
 
 #process article {
     display: inline-block;
